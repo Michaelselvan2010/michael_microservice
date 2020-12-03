@@ -8,6 +8,7 @@ class MicroFriendApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("sss");
 	}
 
 }
