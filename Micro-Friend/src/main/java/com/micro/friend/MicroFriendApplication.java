@@ -9,6 +9,7 @@ public class MicroFriendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MicroFriendApplication.class, args);
 		System.out.println("added my michael , here added in github.....");
+		System.out.println("second line added my michael , here added in github.....");
 	}
 
 }
