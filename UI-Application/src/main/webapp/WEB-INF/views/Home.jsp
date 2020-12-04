@@ -24,7 +24,7 @@
 
 <td>
 <figure>
-    <a  href="addfriend"> <img  src="images/addfriend.jpg"  width="80"  height="80"></a>
+    <a  href="addfriend"> <img  src="images/addfriend.jpg"  width="100"  height="80"></a>
     <figcaption>add friend</figcaption>
 </figure>
 </td>  
