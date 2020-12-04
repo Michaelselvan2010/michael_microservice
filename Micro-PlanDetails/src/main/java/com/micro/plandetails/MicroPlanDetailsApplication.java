@@ -8,6 +8,7 @@ public class MicroPlanDetailsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MicroPlanDetailsApplication.class, args);
+                System.out.println("this is featxy modified");
 	}
 
 }
