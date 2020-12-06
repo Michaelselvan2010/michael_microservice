@@ -10,6 +10,7 @@ public class MicroCustomerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MicroCustomerApplication.class, args);
+		System.out.println("test");
 	}
 	@Bean
 	public RestTemplate restTemplate()
