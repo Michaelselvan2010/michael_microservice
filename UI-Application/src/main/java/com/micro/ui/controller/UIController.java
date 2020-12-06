@@ -101,7 +101,7 @@ public class UIController {
 	
 	@GetMapping("/loginPage")
 	public   String   getLoginPage() {
-		return  "login";
+		return  "login";;;;;;;
 	}
 	
 	
